@@ -1,4 +1,5 @@
-                          Hola! 👋  Soy Johanna
+
+                                Hola! Soy Johanna! 👋 
       🚀 Desarrolladora FullStack de Buenos Aires, Argentina 🚀
       
 En el Bootcamp de Henry aprendi estas tecnologías:
@@ -24,5 +25,7 @@ Mi objetivo es seguir aprendiendo y poner en practica mis conocimientos!
 Podes contactarme en
 <a href="mailto:johanna.servodio@hotmail.com.ar"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 <a href="https://linkedin.com/in/johanna-servodio"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+
+No dudes en mirar mis proyectos aqui en GitHub!! 
 
 
