@@ -2,7 +2,7 @@
                                 Hola! Soy Johanna! 👋 
       🚀 Desarrolladora FullStack de Buenos Aires, Argentina 🚀
       
-En el Bootcamp de Henry aprendi estas tecnologías:
+Estudie en Henry y en el Bootcamp aprendi estas tecnologías:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
